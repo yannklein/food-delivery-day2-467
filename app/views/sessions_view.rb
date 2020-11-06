@@ -1,4 +1,8 @@
 class SessionsView
+  def display(employees)
+    employees.each_with_index { |employee, i| puts "#{i + 1} - #{employee.username}" }
+  end
+
   def ask_for(stuff)
     puts "#{stuff}?"
     print "> "

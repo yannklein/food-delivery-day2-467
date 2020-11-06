@@ -18,11 +18,11 @@ In the current `livecode-day-one` branch, the implemented user actions are:
 +--------------------+
 |       Order        |
 +--------------------+
-|  @id
-|  @customer
-|  @meal
-|  @delivered
+|  
+|  
+|  
+|  
 | 
 +--------------------+
-|  @delivered!
+|  
 +--------------------+

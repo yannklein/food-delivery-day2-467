@@ -18,13 +18,15 @@ class Router
 
   def print_menu
     puts "--------------------"
-    puts "------- MENU -------"
+    puts "---- 🍕 MENU 🚚 ----"
     puts "--------------------"
+    puts "\n-- Meal menu 🍽"
     puts "1. Add new meal"
     puts "2. List all meals"
+    puts "\n-- Customer menu 🙋‍♀️"
     puts "3. Add new customer"
     puts "4. List all customers"
-    puts "8. Exit"
+    puts "\n8. Exit"
     print "> "
   end
 
